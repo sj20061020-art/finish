@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SonicPulse Visualizer",
+  "description": "An advanced, interactive music visualization system with gamepad control, particle systems, and real-time frequency analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
